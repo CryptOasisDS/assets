@@ -1,0 +1,33 @@
+{
+    "name": "Oasis",
+    "type": "BEP20",
+    "symbol": "OASIS",
+    "decimals": 9,
+    "website": "https://wonderwall.finance/",
+    "description": "Oasis is a token created by a small community of crypto-enthusiasts, programmers, and digital design experts. Our token will allow users to interact with various parts of the SilkBoard Dashboard, New tokens finder bot Mineral, Wallet tracking bot Gem, tipping bot Sand, token analysis tool Papyrus, and snipe bot Ray.",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CryptOasisDS"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CryptOasisChat"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/cryptoasisds"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Cryptoasis"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/CryptOasisDS"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0xd9c99510a5e3145359d91fe9caf92dd5d68b603a",
+    "status": "active",
+    "id": "0xd9c99510a5e3145359d91fe9caf92dd5d68b603a"
+}
